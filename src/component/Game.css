@@ -57,7 +57,7 @@ body {
 
 .mole {
   display: none;
-  background: url(https://assets.codepen.io/605876/mole-out-of-hole.svg);
+  background: url(/src/image/mole.png);
   background-size: cover;
   height: 100%;
   width: 100%;
